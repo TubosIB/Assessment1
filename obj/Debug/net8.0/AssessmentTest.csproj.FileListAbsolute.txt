@@ -1,0 +1,14 @@
+C:\Project\Assessment\AssessmentTest\bin\Debug\net8.0\AssessmentTest.exe
+C:\Project\Assessment\AssessmentTest\bin\Debug\net8.0\AssessmentTest.deps.json
+C:\Project\Assessment\AssessmentTest\bin\Debug\net8.0\AssessmentTest.runtimeconfig.json
+C:\Project\Assessment\AssessmentTest\bin\Debug\net8.0\AssessmentTest.dll
+C:\Project\Assessment\AssessmentTest\bin\Debug\net8.0\AssessmentTest.pdb
+C:\Project\Assessment\AssessmentTest\obj\Debug\net8.0\AssessmentTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Assessment\AssessmentTest\obj\Debug\net8.0\AssessmentTest.AssemblyInfoInputs.cache
+C:\Project\Assessment\AssessmentTest\obj\Debug\net8.0\AssessmentTest.AssemblyInfo.cs
+C:\Project\Assessment\AssessmentTest\obj\Debug\net8.0\AssessmentTest.csproj.CoreCompileInputs.cache
+C:\Project\Assessment\AssessmentTest\obj\Debug\net8.0\AssessmentTest.dll
+C:\Project\Assessment\AssessmentTest\obj\Debug\net8.0\refint\AssessmentTest.dll
+C:\Project\Assessment\AssessmentTest\obj\Debug\net8.0\AssessmentTest.pdb
+C:\Project\Assessment\AssessmentTest\obj\Debug\net8.0\AssessmentTest.genruntimeconfig.cache
+C:\Project\Assessment\AssessmentTest\obj\Debug\net8.0\ref\AssessmentTest.dll
